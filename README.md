@@ -39,3 +39,6 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 ------------------------------------------------
 Answers
 ---------------------------------------
+1. Explain what software engineering is and discuss its importance in the technology industry.
+   
+
